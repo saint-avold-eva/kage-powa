@@ -1,0 +1,29 @@
+{
+  "recordings": [
+    {
+      "title": "KAGE - Train - 08/11/2026",
+      "videos": [
+        {
+          "name": "Atlas",
+          "url": "https://youtu.be/x4RSgAFRbJ4"
+        },
+        {
+          "name": "Adento",
+          "url": "https://youtu.be/5x-V78zjiFw"
+        },
+        {
+          "name": "Matrixx",
+          "url": "https://youtu.be/Bhuhow3BoHw"
+        },
+        {
+          "name": "Galgarion",
+          "url": "https://youtu.be/uahlib1CfIc"
+        },
+        {
+          "name": "Fiona",
+          "url": "https://youtu.be/bpXtR4DO3AQ"
+        }
+      ]
+    }
+  ]
+}
